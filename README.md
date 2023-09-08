@@ -1,6 +1,7 @@
 ## NWX Portfolio
 
-Hi, I am Wenxi! This is for my portfolio webpage to showcase my data Science projects & for you to know more about me!
+Hi, I am Wenxi! 
+<br>This is for my portfolio webpage to showcase my data Science projects & for you to know more about me!
 <br>
 Link: https://wxneo.github.io/
 <br><br>
