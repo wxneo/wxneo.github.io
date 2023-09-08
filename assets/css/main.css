@@ -3219,3 +3219,18 @@ input, select, textarea {
 			}
 
 	}
+
+	.user-details {
+		text-align: center;
+		margin: 5px auto;
+	  }
+	  
+	.tech {
+		margin: 10px;
+	  }
+	
+	.codewar{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
